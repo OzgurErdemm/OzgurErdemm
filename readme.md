@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özgür Erdem</h1>
-<h3 align="center">Zonguldak Bülent Ecevit Üniversitesi Makine Mühendisliği programından 17 Haziran 2022 de mezun oldum. Yazılım alanında kendimi geliştirmekteyim. Öğrenmeye açık ve takım çalışmasına yatkınım. Yeni teknolojileri yakından takip ediyorum.</h3>
+<h3 align="center">Zonguldak Bülent Ecevit Üniversitesi Makine Mühendisliği programından 17 Haziran 2022 de mezun oldum.Aynı zamanda Anadolu Üniversitesi'nde Bilgisayar Programlama okumaktayım. Yazılım alanında kendimi geliştirmekteyim. Öğrenmeye açık ve takım çalışmasına yatkınım. Yeni teknolojileri yakından takip ediyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurerdemm&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurerdemm" /> </p>
 
