@@ -10,6 +10,7 @@
 - 📝 I regularly write articles on [soon!](soon!)
 
 - 📫 How to reach me **ozgur.erdem97@hotmail.com**
+This is my CV => [Uploading Yazılım Geliştirici_Özgür Erdem.pdf…]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
